@@ -1,0 +1,1 @@
+RPAWorkflow is meant to simplify the automation of non linear web browser based processes.
